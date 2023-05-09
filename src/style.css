@@ -1,0 +1,38 @@
+body {
+    background-color: azure;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px auto;
+}
+
+p {
+    text-align: center;
+    margin: 20px 10px;
+}
+
+.navigation-links {
+    text-align:center;
+    margin-top: 47px;
+}
+
+a {
+  color: rgb(25, 91, 96);
+}
+
+img {
+    display: block;
+    margin: 30px auto;
+    border-radius: 4px;
+    transition: 250ms ease-in-out;
+}
+
+img:hover {
+    scale: 1.1;
+}
+
+.email-contact {
+    font-size: 20px;
+    color:rgb(165, 42, 42)
+}
